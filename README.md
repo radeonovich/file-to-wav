@@ -9,7 +9,7 @@ Resulting file will be loud.
  
 To use the script, run the following command in a terminal or command prompt:
 
-`python convert_exe_to_wave.py <input_file>`
+`python file-to-wav.py <input_file>`
 
 You can also use additional parameters:
 
